@@ -1,4 +1,4 @@
-This very similiar to the license Instana uses. 
+This very similiar to the license New Relic for their agent software. 
 
 This is proposed sample: 
 
@@ -17,8 +17,9 @@ parties.  You may install, execute, and distribute these files and their
 contents only in conjunction with your direct use of Instana’s services.
 These files and their contents shall not be used in conjunction with any other
 product or software, including but not limited to those that may compete with
-any Instana product, feature, or software. As a condition to the foregoing
-grant, you must provide this notice along with each copy you distribute and you
+any Instana product, feature, or software. 
+
+As a condition to the foregoing grant, you must provide this notice along with each copy you distribute and you
 must not remove, alter, or obscure this notice.  In the event you submit or
 provide any feedback, code, pull requests, or suggestions to Instana you
 hereby grant Instana a worldwide, non-exclusive, irrevocable, transferrable,
@@ -162,6 +163,7 @@ a threatened or actual violation of the confidentiality requirements of this
 Section 5. Each party shall have confidentiality agreements with its employees,
 agents or independent contractors sufficient in scope to fulfill its
 confidentiality obligations under this Agreement.
+
 6. INTELLECTUAL PROPERTY. You acknowledge that Symantec, including its wholly
 owned subsidiaries, retains all intellectual property rights and title
 (including any patent, copyright, trademark, trade secret, and other rights) in
@@ -174,6 +176,7 @@ requirements set forth in the then current version of Symantec's Logo and
 Trademark Usage Guide
 (http://www.symantec.com/about/profile/policies/trademarks.jsp) and any other
 guides and procedures of Symantec.
+
 7. NO WARRANTIES. THE ROOT CERTIFICATES, INCLUDING UPDATES, ARE PROVIDED "AS
 IS" WITHOUT ANY WARRANTY WHATSOEVER. SYMANTEC HEREBY DISCLAIMS ALL WARRANTIES,
 WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION, ANY
@@ -192,6 +195,7 @@ FOR WHICH AN UPDATED VERSION IS MADE AVAILABLE BY SYMANTEC. FURTHER, UNDER NO
 CIRCUMSTANCES WILL SYMANTEC'S LIABILITY FOR ANY ACTION OR CLAIM EXCEED
 USD$1,000, REGARDLESS OF WHETHER SUCH ACTION OR CLAIM IS BASED IN CONTRACT,
 TORT, STRICT LIABILITY, OR OTHERWISE.
+
 9. TERM AND TERMINATION.
 9.1. Term. This Agreement shall become effective as of the earlier of, Your
 first use of the Root Certificates, and shall remain in effect until the
@@ -212,6 +216,7 @@ relating to insolvency, or any assignment for the benefit of creditors, or the
 appointment of a receiver, liquidator, or trustee of any of the other party's
 property or assets, or the liquidation, dissolution, or winding up of the other
 party's business.
+
 9.3. Effect of Expiration or Termination. Upon expiration or termination of
 this Agreement, except for a breach by You, You may continue to distribute the
 current version of Your Products which incorporate the Root Certificates. Any
@@ -221,6 +226,7 @@ in Your Products, and shall stop using Symantec’s logos and trademarks. The
 provisions of Sections 3, 4.3, 5, 6, 7, 8, 9.3, and 10 shall survive
 termination of this Agreement.
 10. GENERAL.
+
 10.1. Governing Laws. This Agreement and any disputes relating to the services
 provided hereunder shall be governed and interpreted according to each of the
 following laws, respectively, without regard to its conflicts of law
@@ -230,6 +236,7 @@ in Europe, Middle East or Africa; or (c) the laws of Singapore, if You are
 located in Asia Pacific including Japan. The United Nations Convention on
 Contracts for the International Sale of Goods shall not apply to this
 Agreement.
+
 10.2. Binding Upon Successors; Assignment. This Agreement shall be binding
 upon, and inure to the benefit of, the successors, executors, heirs,
 representatives, administrators, and assigns of the parties hereto.
@@ -237,6 +244,7 @@ Notwithstanding the foregoing, You may not assign Your rights or obligations
 under this Agreement without the prior written consent of Symantec. Any such
 purported assignment of this Agreement without obtaining written consent shall
 be void and of no effect.
+
 10.3. Severability; Enforcement; No Waiver. The unenforceability of any
 provision or provisions of this Agreement shall not impair the enforceability
 of any other part of this Agreement. If any provision of this Agreement shall
@@ -248,6 +256,7 @@ party, at any time or from time to time, to require performance of any
 obligations of the other party hereunder shall not be deemed a waiver and shall
 not affect its right to enforce any provision of this Agreement at a subsequent
 time.
+
 10.4. Entire Agreement; Amendments; Waivers. This Agreement constitutes the
 entire understanding and agreement of the parties, whether written or oral,
 with respect to the subject matter hereof and supersede all prior and
@@ -255,6 +264,7 @@ contemporaneous agreements or understandings between the parties. Any term or
 provision of this Agreement may be amended, and the observance of any term of
 this Agreement may be waived, only by writing signed by the parties to be bound
 thereby.
+
 10.5. Compliance with Law, Export Requirements and Foreign Reshipment
 Liability. Each party shall comply with all applicable federal, state and local
 laws and regulations in connection with its performance under this Agreement.
@@ -274,6 +284,7 @@ delivering such weapons. Symantec shall have the right to suspend performance
 of any of its obligations under this Agreement, without any prior notice being
 required and without any liability to Customer, if You fail to comply with this
 provision.
+
 10.6. Notices. You will make all notices, demands or requests to Symantec with
 respect to this Agreement in writing to the "Contact" address listed on the
 website from where you downloaded the Root Certificates, with a copy to:
@@ -290,6 +301,7 @@ Symantec with respect to this Agreement may be delivered by electronic mail.
 You shall immediately notify Symantec of any legal notices served on You that
 might affect Symantec, and shall promptly forward the original or a copy of
 such notice to Symantec.
+
 10.7. Independent Parties. The relationship between You and Symantec is that of
 independent contractors. Neither party nor its employees, consultants,
 contractors, or agents are agents, employees, or joint venturers of the other
